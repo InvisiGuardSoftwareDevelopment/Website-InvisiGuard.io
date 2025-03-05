@@ -1,15 +1,13 @@
 ## Copyright Notice
 
-Copyright (c) [Year] [Full Name/Organization Name]. All rights reserved.
+Copyright (c) [InvisiGuard Software Developemnt LLC,] [Cameron H]. All rights reserved.
 
-This repository and all associated files, scripts, documentation, and related materials (the "Repository") are copyrighted by [Full Name/Organization Name] and are made available under the terms of the [License Name] License.
+This repository and all associated files, scripts, documentation, and related materials (the "Repository") are copyrighted by [InvisiGuard Software Development LLC,] and are made available under the terms of the [MIT] License.
 
 License
-This repository is licensed under the [MIT] License, version [1] (the "License"). You may obtain a copy of the License at:
+This repository is licensed under the [MIT] License, version [1] (the "MIT License"). You may obtain a copy of the License at:
+https://github.com/InvisiGuardSoftwareDevelopment/Website-InvisiGuard.io/blob/main/LICENSE%20/Copyright%20Notice
 
-mathematica
-Copy
-[]
 Usage and Restrictions
 Unless otherwise specified in the License, you are permitted to use, modify, and distribute the contents of this repository under the conditions specified by the License. However, certain uses, including but not limited to commercial use or redistribution without proper attribution, may require explicit permission from the copyright holder. Any use of the repository that violates the License terms is prohibited.
 
@@ -28,9 +26,11 @@ The copyright holder reserves all rights not expressly granted in this notice or
 Contact Information
 If you have any questions or would like to request permission to use the repository outside of the terms specified, please contact [Cameron H CEO @ invisiGuard Software Developemnt LLC,] at [cameronh.invisiguard@zoho.com].
 
-pgsql
-Copy
 
-This format includes basic copyright details, the license information, restrictions, disclaimers, and contact information, offering a comprehensive coverage for your repository. You may want to replace placeholders like `[Year]`, `[Full Name/Organization Name]`, and `[License Name]` with actual details. If you are using a specific license like MIT, GPL, etc., ensure you mention that clearly and link to the relevant license file.
+Thanks,
+Cameron H
+Chief Executie Officer/ Founder
+InvisiGuard Software Development LLC,
+
 
 
